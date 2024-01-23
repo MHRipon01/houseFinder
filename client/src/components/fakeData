@@ -1,0 +1,102 @@
+[
+    {
+      "city": "Chicago",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "roomSize": "1300 sqft",
+      "availability": "Available Now",
+      "rentPerMonth": 2200,
+      "imageUrl": "https://i.ibb.co/GMyvm0p/image.png"
+    },
+    {
+        
+      "city": "Boston",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "roomSize": "900 sqft",
+      "availability": "Available from February 1, 2024",
+      "rentPerMonth": 2000,
+      "imageUrl": "https://i.ibb.co/k8dBNpp/image.png"
+    },
+    {
+        
+      "city": "Seattle",
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "roomSize": "1600 sqft",
+      "availability": "Available from March 15, 2024",
+      "rentPerMonth": 3000,
+      "imageUrl": "https://i.ibb.co/bsnM333/image.png"
+    },
+    {
+        
+      "city": "Austin",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "roomSize": "1100 sqft",
+      "availability": "Available Now",
+      "rentPerMonth": 2100,
+      "imageUrl": "https://i.ibb.co/tDbkfSr/image.png"
+    },
+    {
+        
+      "city": "Denver",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "roomSize": "1400 sqft",
+      "availability": "Available from April 1, 2024",
+      "rentPerMonth": 2800,
+      "imageUrl": "https://i.ibb.co/s5x77xM/image.png"
+    },
+    {
+        
+      "city": "Miami",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "roomSize": "1000 sqft",
+      "availability": "Available from May 1, 2024",
+      "rentPerMonth": 2300,
+      "imageUrl": "https://i.ibb.co/K5Yn6hw/image.png"
+    },
+    {
+        
+      "city": "Atlanta",
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "roomSize": "1200 sqft",
+      "availability": "Available Now",
+      "rentPerMonth": 2400,
+      "imageUrl": "https://i.ibb.co/fr6HfB1/image.png"
+    },
+    {
+        
+      "city": "Dallas",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "roomSize": "1500 sqft",
+      "availability": "Available from June 1, 2024",
+      "rentPerMonth": 2600,
+      "imageUrl": "https://i.ibb.co/SRJyYDG/image.png"
+    },
+    {
+        
+      "city": "Phoenix",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "roomSize": "800 sqft",
+      "availability": "Available from July 1, 2024",
+      "rentPerMonth": 1900,
+      "imageUrl": "https://i.ibb.co/JQ0ccZz/image.png"
+    },
+    {
+        
+      "city": "Philadelphia",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "roomSize": "1300 sqft",
+      "availability": "Available Now",
+      "rentPerMonth": 2500,
+      "imageUrl": "https://i.ibb.co/4pSBmP1/image.png"
+    }
+  ]
+  
